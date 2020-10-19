@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constarint Layout Example</string>
+    <string name="description_text">Bhimtal Lake is one of the largest Natural Lakes in India,
+        located in the town of Bhimtal in the state of Uttarakhand.\n\n
+        This lake is known to be the largest in terms of surface area in the Kumaon region and is a gorgeous sight for tourists.\n\n
+        The island in the middle of the lake has been promoted as a major tourist attraction
+        and is equipped with an aquarium showcasing the aquatic life of the region.</string>
+    <string name="calculator_title">Using Chains</string>
+</resources>
